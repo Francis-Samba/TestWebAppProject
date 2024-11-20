@@ -1,0 +1,31 @@
+﻿.navbar-nav.ml-auto {
+    margin-left: auto !important;
+}
+
+/*-- Footer --*/
+.footerlinks {
+    color: #ffffff;
+    text-decoration: none !important;
+}
+
+.footerlinks:hover {
+    color: #ffd800;
+}
+
+#footer1 {
+    background: #762b00;
+}
+
+#footer2 {
+    background: #531f00;
+}
+/*.vertical-divider {
+    border-right: 1px #000;*/ /* Adjust the color and width as needed */
+    /*height: auto;*/ /* Ensure it spans the full height of the column */
+/*}*/
+
+/*.form-control::placeholder {*/
+    /* color: #6c757d; Adjust the color if needed */
+    /*opacity: 1;*/ /* Ensure full opacity */
+    /*font-size: 1rem;*/ /* Adjust the font size if needed */
+/*}*/

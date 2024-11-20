@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3A7DA-D730-4AB4-9441-D721221E58E5}|ElibraryManagement\\ElibraryManagement.csproj|c:\\users\\francis.samba\\source\\repos\\elibrarymanagement\\elibrarymanagement\\adminaunthormanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CAC3A7DA-D730-4AB4-9441-D721221E58E5}|ElibraryManagement\\ElibraryManagement.csproj|solutionrelative:elibrarymanagement\\adminaunthormanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3A7DA-D730-4AB4-9441-D721221E58E5}|ElibraryManagement\\ElibraryManagement.csproj|C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\elibrarymanagement\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{CAC3A7DA-D730-4AB4-9441-D721221E58E5}|ElibraryManagement\\ElibraryManagement.csproj|solutionrelative:elibrarymanagement\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3A7DA-D730-4AB4-9441-D721221E58E5}|ElibraryManagement\\ElibraryManagement.csproj|C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\elibrarymanagement\\adminaunthormanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC3A7DA-D730-4AB4-9441-D721221E58E5}|ElibraryManagement\\ElibraryManagement.csproj|solutionrelative:elibrarymanagement\\adminaunthormanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3A7DA-D730-4AB4-9441-D721221E58E5}|ElibraryManagement\\ElibraryManagement.csproj|C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\elibrarymanagement\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC3A7DA-D730-4AB4-9441-D721221E58E5}|ElibraryManagement\\ElibraryManagement.csproj|solutionrelative:elibrarymanagement\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3A7DA-D730-4AB4-9441-D721221E58E5}|ElibraryManagement\\ElibraryManagement.csproj|C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\elibrarymanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CAC3A7DA-D730-4AB4-9441-D721221E58E5}|ElibraryManagement\\ElibraryManagement.csproj|solutionrelative:elibrarymanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3A7DA-D730-4AB4-9441-D721221E58E5}|ElibraryManagement\\ElibraryManagement.csproj|C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\elibrarymanagement\\css\\myssheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CAC3A7DA-D730-4AB4-9441-D721221E58E5}|ElibraryManagement\\ElibraryManagement.csproj|solutionrelative:elibrarymanagement\\css\\myssheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3A7DA-D730-4AB4-9441-D721221E58E5}|ElibraryManagement\\ElibraryManagement.csproj|C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\elibrarymanagement\\bootstrap\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CAC3A7DA-D730-4AB4-9441-D721221E58E5}|ElibraryManagement\\ElibraryManagement.csproj|solutionrelative:elibrarymanagement\\bootstrap\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "adminaunthormanagement.aspx",
+              "DocumentMoniker": "C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\ElibraryManagement\\adminaunthormanagement.aspx",
+              "RelativeDocumentMoniker": "ElibraryManagement\\adminaunthormanagement.aspx",
+              "ToolTip": "C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\ElibraryManagement\\adminaunthormanagement.aspx",
+              "RelativeToolTip": "ElibraryManagement\\adminaunthormanagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-02T06:38:14.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\ElibraryManagement\\Site1.Master",
+              "RelativeDocumentMoniker": "ElibraryManagement\\Site1.Master",
+              "ToolTip": "C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\ElibraryManagement\\Site1.Master",
+              "RelativeToolTip": "ElibraryManagement\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T23:01:36.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "adminaunthormanagement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\ElibraryManagement\\adminaunthormanagement.aspx.cs",
+              "RelativeDocumentMoniker": "ElibraryManagement\\adminaunthormanagement.aspx.cs",
+              "ToolTip": "C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\ElibraryManagement\\adminaunthormanagement.aspx.cs",
+              "RelativeToolTip": "ElibraryManagement\\adminaunthormanagement.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:38:27.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\ElibraryManagement\\bootstrap\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "ElibraryManagement\\bootstrap\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\ElibraryManagement\\bootstrap\\css\\bootstrap.min.css",
+              "RelativeToolTip": "ElibraryManagement\\bootstrap\\css\\bootstrap.min.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-07T03:28:28.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\ElibraryManagement\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "ElibraryManagement\\Site1.Master.cs",
+              "ToolTip": "C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\ElibraryManagement\\Site1.Master.cs",
+              "RelativeToolTip": "ElibraryManagement\\Site1.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:15:12.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "myssheet.css",
+              "DocumentMoniker": "C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\ElibraryManagement\\css\\myssheet.css",
+              "RelativeDocumentMoniker": "ElibraryManagement\\css\\myssheet.css",
+              "ToolTip": "C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\ElibraryManagement\\css\\myssheet.css",
+              "RelativeToolTip": "ElibraryManagement\\css\\myssheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-30T03:57:30.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\ElibraryManagement\\Web.config",
+              "RelativeDocumentMoniker": "ElibraryManagement\\Web.config",
+              "ToolTip": "C:\\Users\\francis.samba\\source\\repos\\ElibraryManagement\\ElibraryManagement\\Web.config",
+              "RelativeToolTip": "ElibraryManagement\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-27T21:32:47.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
